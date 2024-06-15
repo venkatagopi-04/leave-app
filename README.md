@@ -30,5 +30,5 @@ This is an Online Leave Approval System developed using HTML, CSS, JavaScript, a
 - **Admin Login**: Admins can log in to manage and approve leave requests, view all user leave records, and manage their profile.
 
 
-Your Name - [venkatagopi.live@gmail.com](mailto:venkatagopi.live.com)
+Venkata Gopi MUvva - [venkatagopi.live@gmail.com](mailto:venkatagopi.live.com)
 
